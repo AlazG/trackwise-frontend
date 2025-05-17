@@ -1,3 +1,10 @@
+# Installation Req.
+node.js yuklu olmali
+react 18.2 yuklu olmali
+tailwind yuklu olmali
+package.json'un icindeki moduller yuklu olmali
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
